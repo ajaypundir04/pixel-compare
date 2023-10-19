@@ -1,0 +1,18 @@
+{
+  "name": "image-compare",
+  "version": "1.0.0",
+  "description": "Compare image by pixel",
+  "main": "main.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Ajay Singh Pundir",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.5.1",
+    "jest": "^29.7.0",
+    "node-fetch": "^3.3.2",
+    "pixelmatch": "^5.3.0",
+    "pngjs": "^7.0.0"
+  }
+}
